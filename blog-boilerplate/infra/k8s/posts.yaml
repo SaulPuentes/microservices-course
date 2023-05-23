@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: posts
-    image: saulpuentes/posts:0.0.1
+    image: saulpuentes/posts:0.0.5
     imagePullPolicy: Never
     resources:
       limits:
